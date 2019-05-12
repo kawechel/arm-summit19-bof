@@ -1,4 +1,4 @@
-# SC18 Birds of a Feather - HPC Carpentry: Practical, Hands-on HPC Training
+# Arm Research Summit 2019 - UK-Arm HPC: accelerating the use of Arm HPC for research
 
 ## Agenda
 
@@ -17,5 +17,4 @@
 
  
 ### Code of Conduct
- 
-All participants are reminded that their involvement in this session is covered by the [SC17 Code of Conduct](http://sc17.supercomputing.org/attendees/code-of-conduct/).
+
