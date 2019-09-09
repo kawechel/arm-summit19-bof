@@ -20,7 +20,6 @@ Arm Research Summit 2019
 
 ## Session leaders
 
-* Andrew	Turner,	a.turner@epcc.ed.ac.uk, EPCC The University of Edinburgh
 * Michele	Weiland,	m.weiland@epcc.ed.ac.uk,	EPCC, The University of Edinburgh
 * Simon	McIntosh-Smith,	S.McIntosh-Smith@bristol.ac.uk,	University of Bristol
 * Simon	Burbidge,	simon.burbidge@bristol.ac.uk,	University of Bristol
